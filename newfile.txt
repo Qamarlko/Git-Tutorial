@@ -1,0 +1,2 @@
+ECHO is on.
+inserting text through cmd 
